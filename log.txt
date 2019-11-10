@@ -56,3 +56,10 @@ The Great Northern
 San Francisco, CA, United States
 01/01/2020
 
+spotify-this-song "Crazy Train"
+--------------------
+Artist(s): Ozzy Osbourne
+Song name: Crazy Train
+Preview mp3: https://p.scdn.co/mp3-preview/a3f3a8418391439b4725f26fbb3f1b272c24bc02?cid=2b7f8a8fbc16463eb19b11a5fff39bcb
+Album name: Blizzard of Ozz (Expanded Edition)
+
