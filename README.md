@@ -8,6 +8,9 @@ LIRI is a command line program that takes in parameters and gives back data.  It
 LIRI is a javascript app that can ping several APIs (_Spotify, OMDB & Bands in Town_) about bands, songs and movies.  Witness the magic:
 * _concert-this_ - returns venue name, location and event date for the specified artist
     * using this structure _node liri.js concert-this "artist name"_
+
+![concert-this](https://raw.githubusercontent.com/wattskimzey/liri-node-app/master/images/concertthis.PNG)
+
 * _spotify-this-song_ - returns the artist, song's album, song name and a Spotify preview link
     * using this structure _node liri.js spotify-this-song "song name"_
 * _movie-this_ - returns movie title, Rotten Tomatoes and IMDB ratings, movie release year, actors, plot, language and production country. 
