@@ -13,6 +13,9 @@ LIRI is a javascript app that can ping several APIs (_Spotify, OMDB & Bands in T
 
 * _spotify-this-song_ - returns the artist, song's album, song name and a Spotify preview link
     * using this structure _node liri.js spotify-this-song "song name"_
+
+![spotify-this-song](https://raw.githubusercontent.com/wattskimzey/liri-node-app/master/images/spotifythissong.PNG)
+
 * _movie-this_ - returns movie title, Rotten Tomatoes and IMDB ratings, movie release year, actors, plot, language and production country. 
     * using this structure _node liri.js movie-this "movie name"_
 
