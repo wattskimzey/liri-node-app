@@ -27,3 +27,32 @@ Language: English
 Plot: Seventy-eight year old Carl Fredricksen travels to Paradise Falls in his home equipped with balloons, inadvertently taking a young stowaway.
 Actors: Edward Asner, Christopher Plummer, Jordan Nagai, Bob Peterson
 
+movie-this undefined
+--------------------
+Movie name: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8/10
+Rotten Tomatoes Rating: 67%
+Country the movie was produced: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+movie-this undefined
+--------------------
+Movie name: Steel Magnolias
+Release Year: 1989
+IMDB Rating: 7.3/10
+Rotten Tomatoes Rating: 70%
+Country the movie was produced: USA
+Language: English
+Plot: A young beautician, newly arrived in a small Louisiana town, finds work at the local salon, where a small group of women share a close bond of friendship, and welcome her into the fold.
+Actors: Sally Field, Dolly Parton, Shirley MacLaine, Daryl Hannah
+
+concert-this craig
+--------------------
+The next upcoming show for craig is the following:
+The Great Northern
+San Francisco, CA, United States
+01/01/2020
+

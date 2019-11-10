@@ -1,9 +1,13 @@
+// Create requires for npm
 require("dotenv").config();
 var keys = require("./keys.js");
 var spotifyAPI = require("node-spotify-api");
 var axios = require("axios");
 var moment = require("moment");
 var fs = require("fs");
+
+
+// Create spotify variable with our own ID and secret for authorization
 var spotify = new spotifyAPI(keys.spotify);
 
 // Function for switch method for taking node input
@@ -73,7 +77,7 @@ function song(input) {
     var artist = "";
 
     if (typeof(input) === "undefined") {
-        song = "Van Halen Hot For Teacher";
+        song = "Ace of Base The Sign";
     }
 
     spotify.search({ type: 'track', query: song }, function(err, data) {
@@ -109,7 +113,7 @@ function movie(input) {
     var movieName = input;
 
     if (typeof(input) === "undefined") {
-        movieName = "Up";
+        movieName = "Steel Magnolias";
     }
 
     var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
