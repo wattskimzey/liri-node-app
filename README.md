@@ -21,6 +21,8 @@ LIRI is a javascript app that can ping several APIs (_Spotify, OMDB & Bands in T
 * _do-what-it-says_ is a little different. it reads the input from a local text file named _random.txt_ and performs one of the above actions.
     * using this structure _node liri.js do-what-it-says_  
 
+![do-what-it-says](https://raw.githubusercontent.com/wattskimzey/liri-node-app/master/images/dowhatitsays.PNG)
+
 ## NPM Dependencies
 * node-spotify-api
 * axios
