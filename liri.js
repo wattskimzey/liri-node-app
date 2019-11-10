@@ -73,7 +73,7 @@ function song(input) {
     var artist = "";
 
     if (typeof(input) === "undefined") {
-        song = "Ace of Base The Sign";
+        song = "Van Halen Hot For Teacher";
     }
 
     spotify.search({ type: 'track', query: song }, function(err, data) {
@@ -109,7 +109,7 @@ function movie(input) {
     var movieName = input;
 
     if (typeof(input) === "undefined") {
-        movieName = "Mr. Nobody";
+        movieName = "Up";
     }
 
     var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
